@@ -1,0 +1,20 @@
+================================================================================
+                                                                   *scribe.nvim*
+
+scribe.nvim is a convenient way to find and take notes written in Lua.
+
+To find out more:
+https://github.com/Ostralyan/scribe.nvim
+
+  :h ScribeOpen
+
+ScribeOpen <filename>                                               *ScribeOpen*
+    Opens the <filename> in the <directory>. If no <filename> is passed then it
+    will open the <default_file>.
+
+  :h ScribeFind
+
+ScribeFind                                                          *ScribeFind*
+    This searches the <directory> for all the saved notes.
+
+================================================================================
