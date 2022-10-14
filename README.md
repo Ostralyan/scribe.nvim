@@ -18,6 +18,8 @@ A convenient way to find and take notes written in Lua.
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Setup](#setup)
+- [Contributing](#contributing)
+- [Wish List](#wish-list)
 
 ## Getting Started
 
