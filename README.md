@@ -13,7 +13,7 @@ A convenient way to find and take notes written in Lua.
 
 <!-- `scribe.nvim` requires Neovim >= 0.5. -->
 
-## Telescope Table of Contents
+## Contents
 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
