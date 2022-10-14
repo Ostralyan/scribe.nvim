@@ -13,11 +13,13 @@ A convenient way to find and take notes written in Lua.
 
 <!-- `scribe.nvim` requires Neovim >= 0.5. -->
 
-## Telescope Table of Contents
+## Contents
 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Setup](#setup)
+- [Contributing](#contributing)
+- [Wish List](#wish-list)
 
 ## Getting Started
 
@@ -76,3 +78,4 @@ All contributions are welcome! Just open a pull request. Feel free to take stab 
 * Add setup configuration to allow for customizable preview.
 * More Usage examples for packer, dein, and more
 * Setup examples in Lua
+* Add multiple search directories
