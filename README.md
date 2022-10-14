@@ -5,6 +5,8 @@
 ![code size](https://img.shields.io/github/languages/code-size/Ostralyan/scribe.nvim?style=flat-square)
 ![license](https://img.shields.io/github/license/Ostralyan/scribe.nvim?style=flat-square)
 
+![Preview](https://i.imgur.com/uaMPuQr.mp4)
+
 <!-- panvimdoc-ignore-end -->
 
 A convenient way to find and take notes written in Lua.
