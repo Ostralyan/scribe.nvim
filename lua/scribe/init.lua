@@ -12,6 +12,8 @@ M.setup = function(user_cfg)
   cfg = default_cfg
   cfg = vim.tbl_extend("force", default_cfg, user_cfg)
 
+  os.execute('mkdir -p ' .. cfg['directory'])
+
   if cfg['file_ext']:sub(1, 1) ~= '.' then
     cfg['file_ext'] = '.' .. cfg['file_ext']
   end

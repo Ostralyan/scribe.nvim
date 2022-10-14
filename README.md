@@ -72,7 +72,6 @@ require('scribe').setup{
 All contributions are welcome! Just open a pull request. Feel free to take stab at wish list.
 
 ## Wish List
-* Automatically create directory if it exists.
 * Support markdown preview
 * Add setup configuration to allow for customizable preview.
 * More Usage examples for packer, dein, and more
