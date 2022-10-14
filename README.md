@@ -5,7 +5,7 @@
 ![code size](https://img.shields.io/github/languages/code-size/Ostralyan/scribe.nvim?style=flat-square)
 ![license](https://img.shields.io/github/license/Ostralyan/scribe.nvim?style=flat-square)
 
-![Preview](https://i.imgur.com/uaMPuQr.mp4)
+![Preview](https://i.imgur.com/uaMPuQr.gif)
 
 <!-- panvimdoc-ignore-end -->
 
