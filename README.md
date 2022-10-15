@@ -4,6 +4,7 @@
 
 ![code size](https://img.shields.io/github/languages/code-size/Ostralyan/scribe.nvim?style=flat-square)
 ![license](https://img.shields.io/github/license/Ostralyan/scribe.nvim?style=flat-square)
+![GitHub all releases](https://img.shields.io/github/downloads/ostralyan/scribe.nvim/total?style=flat-square)
 
 ![scribe short](https://user-images.githubusercontent.com/7123333/195979769-5ff8cfb4-c7dd-4897-89fa-9c6705659f0f.gif)
 
