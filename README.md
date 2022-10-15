@@ -4,7 +4,7 @@
 
 ![code size](https://img.shields.io/github/languages/code-size/Ostralyan/scribe.nvim?style=flat-square)
 ![license](https://img.shields.io/github/license/Ostralyan/scribe.nvim?style=flat-square)
-![GitHub all releases](https://img.shields.io/github/downloads/ostralyan/scribe.nvim/total?style=flat-square)
+<!-- ![GitHub all releases](https://img.shields.io/github/downloads/ostralyan/scribe.nvim/total?style=flat-square) -->
 
 ![scribe short](https://user-images.githubusercontent.com/7123333/195979769-5ff8cfb4-c7dd-4897-89fa-9c6705659f0f.gif)
 
@@ -72,11 +72,22 @@ nnoremap <leader>sf :ScribeFind<cr>
 ```
 
 ## Setup
-
+### Default setup
 ```lua
-require('scribe').setup{
-  directory = '~/notes',
-  file_text = 'md',
+-- Default values
+-- { 
+--   directory = '~/notes',
+--   file_text = 'md',
+--   default_file = 'scribe'
+-- }
+require('scribe').setup{}
+```
+
+### Custom setup with project root as default directory
+```lua
+require('scribe').setup{ 
+  directory = './notes',
+  file_text = '.txt',
   default_file = 'scribe'
 }
 ```
