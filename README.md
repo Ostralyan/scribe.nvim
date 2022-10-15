@@ -5,7 +5,7 @@
 ![code size](https://img.shields.io/github/languages/code-size/Ostralyan/scribe.nvim?style=flat-square)
 ![license](https://img.shields.io/github/license/Ostralyan/scribe.nvim?style=flat-square)
 
-![Preview](https://i.imgur.com/uaMPuQr.gif)
+![scribe short](https://user-images.githubusercontent.com/7123333/195979769-5ff8cfb4-c7dd-4897-89fa-9c6705659f0f.gif)
 
 <!-- panvimdoc-ignore-end -->
 
@@ -16,6 +16,7 @@ A convenient way to find and take notes written in Lua.
 <!-- `scribe.nvim` requires Neovim >= 0.5. -->
 
 ## Contents
+
 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
