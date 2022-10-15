@@ -37,12 +37,20 @@ A convenient way to find and take notes written in Lua.
 Plug 'Ostralyan/scribe.nvim'
 " Telescope is a required dependency for :ScribeFind to work
 Plug 'nvim-telescope/telescope.nvim', { 'tag': '0.1.0' }
+```
 
-.
-.
-.
+### [packer.nvim](https://github.com/wbthomason/packer.nvim)
+```lua
+return require('packer').startup(function(use)
+  use 'nvim-telescope/telescope.nvim', tag = '0.1.0',
+  use 'Ostralyan/scribe.nvim'
+end)
+```
 
-lua require('scribe').setup {}
+### [dein.vim](https://github.com/Shougo/dein.vim)
+```viml
+call dein#add('nvim-telescope/telescope.nvim', { 'rev': '0.1.0' })
+call dein#add('Ostralyan/scribe.nvim')
 ```
 
 ## Usage
