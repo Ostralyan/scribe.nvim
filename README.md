@@ -77,7 +77,7 @@ nnoremap <leader>sf :ScribeFind<cr>
 -- Default values
 -- { 
 --   directory = '~/notes',
---   file_text = 'md',
+--   file_ext = 'md',
 --   default_file = 'scribe'
 -- }
 require('scribe').setup{}
@@ -87,7 +87,7 @@ require('scribe').setup{}
 ```lua
 require('scribe').setup{ 
   directory = './notes',
-  file_text = '.txt',
+  file_ext = '.txt',
   default_file = 'scribe'
 }
 ```
