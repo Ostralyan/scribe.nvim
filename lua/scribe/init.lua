@@ -4,8 +4,8 @@ local cfg = {}
 M.setup = function(user_cfg)
 	local default_cfg = {
 		file_ext = "md",
-		directory = "~/scribs/",
-		default_file = "scrib",
+		directory = "~/scribes/",
+		default_file = "scribe",
 	}
 
 	-- Override setup args with arguments passed by the user
