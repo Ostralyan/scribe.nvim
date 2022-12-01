@@ -1,5 +1,5 @@
 " command to run our plugin
-command! -nargs=* ScribOpen lua require("scrib").open(<f-args>)
-command! ScribFind lua require("scrib").find()
-command! ScribNew lua require("scrib").new()
+command! -nargs=* ScribeOpen lua require("scribe").open(<f-args>)
+command! ScribeFind lua require("scribe").find()
+command! ScribeNew lua require("scribe").new()
 
